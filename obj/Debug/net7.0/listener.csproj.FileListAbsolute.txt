@@ -1,0 +1,15 @@
+C:\web\listener\bin\Debug\net7.0\listener.exe
+C:\web\listener\bin\Debug\net7.0\listener.deps.json
+C:\web\listener\bin\Debug\net7.0\listener.runtimeconfig.json
+C:\web\listener\bin\Debug\net7.0\listener.dll
+C:\web\listener\bin\Debug\net7.0\listener.pdb
+C:\web\listener\obj\Debug\net7.0\listener.csproj.AssemblyReference.cache
+C:\web\listener\obj\Debug\net7.0\listener.GeneratedMSBuildEditorConfig.editorconfig
+C:\web\listener\obj\Debug\net7.0\listener.AssemblyInfoInputs.cache
+C:\web\listener\obj\Debug\net7.0\listener.AssemblyInfo.cs
+C:\web\listener\obj\Debug\net7.0\listener.csproj.CoreCompileInputs.cache
+C:\web\listener\obj\Debug\net7.0\listener.dll
+C:\web\listener\obj\Debug\net7.0\refint\listener.dll
+C:\web\listener\obj\Debug\net7.0\listener.pdb
+C:\web\listener\obj\Debug\net7.0\listener.genruntimeconfig.cache
+C:\web\listener\obj\Debug\net7.0\ref\listener.dll
