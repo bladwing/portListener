@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+C5vOwlXsySP72aE0fiJAA2+CtY8Ffa9UxhINp7dfUYQEIG2Usrna2dUV230v0Ht7JXVcqkZgkqV4++Rgn8VQA==",
+  "dgSpecHash": "3Iqs2E2+OS4UfSkKtOBm4qAZhi2CCXGh3x5YtqvHWJwZJczcPoD40QwmyzkSyhgYJjbexW+yAoEK6qefV5AfSw==",
   "success": true,
-  "projectFilePath": "C:\\web\\listener\\listener.csproj",
+  "projectFilePath": "C:\\web\\portlistener\\listener.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

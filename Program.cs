@@ -8,7 +8,7 @@ class MyTcpListener
 {
   public static void Main()
   {
-    TcpListener server = null;
+    TcpListener? server = null;
     try
     {
       Int32 port = 5000;
@@ -18,7 +18,7 @@ class MyTcpListener
       server.Start();
 
       Byte[] bytes = new Byte[512];
-      String data = null;
+      String? data = null;
 
       while(true)
       {

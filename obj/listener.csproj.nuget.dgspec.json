@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\web\\listener\\listener.csproj": {}
+    "C:\\web\\portlistener\\listener.csproj": {}
   },
   "projects": {
-    "C:\\web\\listener\\listener.csproj": {
+    "C:\\web\\portlistener\\listener.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\web\\listener\\listener.csproj",
+        "projectUniqueName": "C:\\web\\portlistener\\listener.csproj",
         "projectName": "listener",
-        "projectPath": "C:\\web\\listener\\listener.csproj",
+        "projectPath": "C:\\web\\portlistener\\listener.csproj",
         "packagesPath": "C:\\Users\\BLADWING\\.nuget\\packages\\",
-        "outputPath": "C:\\web\\listener\\obj\\",
+        "outputPath": "C:\\web\\portlistener\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BLADWING\\AppData\\Roaming\\NuGet\\NuGet.Config"
