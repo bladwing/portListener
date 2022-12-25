@@ -9,17 +9,26 @@ Install required **.NET 7.0 SDK** [package](https://dotnet.microsoft.com/en-us/d
 Run - **Windows PowerShell**
 
 Go to workdirectory 
-
+For example:
 
 ```
-c:/"workingdirectory"
+c:/webprojects/
+```
 
+Clone my project
+
+```
 git clone git@github.com:bladwing/portListener.git
+```
 
+Go to Project folder
+```
 cd portListener
+```
 
+Run project
+```
 dotnet run
-
 ```
 
 PowerShell will get message - 
@@ -54,17 +63,4 @@ IPAddress localAddr = IPAddress.Parse("127.0.0.1");
 ```
 
 ![](https://i.imgur.com/yM9d5wD.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
 
